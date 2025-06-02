@@ -3,7 +3,7 @@
 
  
 
- - Buscar por data set que tenha  os code smells conhecidos; 
+ - Buscar por data set que contenha  os code smells conhecidos; 
  - Entrega de versão Final do texto  ao prof Johnatan Oliveira :  13/06/2025;
  - O prof revisa o texto de devolve para o aluno no dia 16/06/2025;
  - O aluno entrega as correções no dia 19/06/2025 ao prof Johnatan para conferência das correções; 
